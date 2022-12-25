@@ -1,5 +1,5 @@
 # ML_projects
-Some of my machine learning projects &amp; some of my python solutions to ML problems from textbooks
+Below are some of my solutions to machine learning problems
 
 bagging_boosting: bagging & boosting models are trained and compared, includes use of one-hot encoding
 
